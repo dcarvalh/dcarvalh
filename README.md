@@ -1,6 +1,6 @@
 ## Hi, I'm David 👋
 
-I'm a control software engineer based in Geneva, Switzerland. I write the software that sits between code and hardware: PLCs, SCADA, industrial networks, and the testing and CI/CD that keeps them safe to change.
+I'm a control software engineer based in Geneva, Switzerland. I write the software that sits between code and hardware: industrial control, real-time hardware, and the testing and CI/CD that keeps them safe to change.
 
 - 🏭 **Now:** Automation Engineer at [SKAN](https://www.skan.com), building SCADA and data-acquisition software for pharmaceutical filling lines (zenon, C#, SQL) in a GMP-regulated environment.
 - ⚛️ **Before:** 5 years at [CERN](https://home.cern), on control systems for the power converters of the accelerator complex. I led a Python CI/CD framework for hardware-in-the-loop testing against Siemens S7-1500 PLCs over OPC-UA, coordinated a 5-person support team and did 24/7 on-call.
