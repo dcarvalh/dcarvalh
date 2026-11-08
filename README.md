@@ -11,7 +11,7 @@ I'm a control software engineer based in Geneva, Switzerland. I write the softwa
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Robot Scheduler** · [live](https://workcell.davidcarvalho.work/) | Schedules a robotic lab (nine instruments around one robot arm, three workflows sharing them) across a 12-hour shift. Four schedulers, from a greedy rule to CP-SAT, a tester that checks every schedule against twelve physical rules, and a 3D playback that reschedules around a broken instrument on request. | Python, OR-Tools (CP-SAT), React, TypeScript, three.js |
+| **Robot Scheduler** · [live](https://workcell.davidcarvalho.work/) | Schedules a robotic lab's 12-hour shift with four solvers, from greedy to CP-SAT. Every schedule is checked against the physical rules and played back in 3D, with rescheduling around a broken instrument. | Python, OR-Tools, React, three.js |
 | [**Fusion Reactor Control Systems**](https://github.com/dcarvalh/FusionReactorControlSystems) · [live](https://dcarvalh.github.io/FusionReactorControlSystems/) | An interactive explainer of how a tokamak is controlled, inspired by TCV at EPFL. Includes a 3D cutaway, a clickable cross-section and a plasma shape morpher. | JavaScript, three.js |
 | [**Portfolio**](https://github.com/dcarvalh/portfolio) · [live](https://davidcarvalho.work/) | My personal site, in English, French and Portuguese. | HTML, CSS, JS |
 
